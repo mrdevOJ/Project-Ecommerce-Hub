@@ -1,0 +1,1 @@
+<!-- </div>    <a href="{{route('articles.show',['articles'=>$article['id']])}}" class="btn btn-primary">Ajputer au Panier</a> -->
